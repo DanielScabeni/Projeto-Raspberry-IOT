@@ -1,15 +1,15 @@
-# Repositório da matéria de Sistemas Embarcados
+# Repositório da matéria de IOT
 
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/DanielScabeni/SistemasEmbarcados">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielScabeni&repo=SistemasEmbarcados&theme=chartreuse-dark" alt="Readme Card">
+      <a href="https://github.com/DanielScabeni/Projeto-Raspberry-IOT">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielScabeni&repo=Projeto-Raspberry-IOT&theme=chartreuse-dark" alt="Readme Card">
       </a>
     </td>
     <td width="50%">
   </a>
-    <p style="color: white;">Este é o PRINCIPAL repositorio onde será separado por PASTAS, os projetos desenvolvidos na matéria de Sistemas Embarcados do curso de Sistemas de Informações da Universidade MaterDei (UNIMATER), ministrada pelo professor Dr. Rafael babosa</p>
+    <p style="color: white;">Repositorio usado para salvar alguns projetos desenvolvidos na matéria de IOT do curso de Sistemas de Informações da Universidade MaterDei (UNIMATER), ministrada pelo professor Giovanni Marcarini</p>
     </td>
   </tr>
 </table>
